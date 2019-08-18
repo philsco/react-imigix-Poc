@@ -1,0 +1,22 @@
+{
+    "dh": {
+        "name": "Desktop Hero",
+        "w": 600,
+        "h": 375
+    },
+    "mh": {
+        "name": "Mobile Hero",
+        "w": 325,
+        "h": 437
+    },
+    "ct": {
+        "name": "Cart Thumbnail",
+        "w": 110,
+        "h": 110
+    },
+    "nv": {
+        "name": "Navigation",
+        "w": 456,
+        "h": 419
+    }
+}
